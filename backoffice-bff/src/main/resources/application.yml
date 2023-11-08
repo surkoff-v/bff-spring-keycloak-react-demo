@@ -17,7 +17,7 @@ spring:
           api-client:
             provider: keycloak
             client-id: backoffice-bff-client
-            client-secret: it1ZVuSIEVLhw5FtrAl4TTwaUzoyqLfb
+            client-secret: aQ72bD8qv3jvVE9oP02O2ykefLKXrGEF
             authorization-grant-type: authorization_code
             scope: openid, profile, email, roles
   cloud:
